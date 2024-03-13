@@ -1,3 +1,3 @@
 class hello {
-    System.out.println("before");
+    System.out.println("1");
 }
