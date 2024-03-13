@@ -1,3 +1,3 @@
 class hello {
-    System.out.println("after");
+    System.out.println("2");
 }
